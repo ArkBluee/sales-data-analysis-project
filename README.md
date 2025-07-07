@@ -2,11 +2,15 @@
 
 This project focuses on cleaning and analyzing sales data to extract actionable insights. It is part of my data analyst portfolio and demonstrates my skills in data preprocessing and exploratory data analysis (EDA).
 
+---
+
 ## Project Objectives
 
 - Clean and preprocess raw sales data
 - Analyze trends, performance, and KPIs
 - Visualize insights using charts
+
+---
 
 ## Tools Used
 
@@ -14,6 +18,8 @@ This project focuses on cleaning and analyzing sales data to extract actionable 
 - Excel (Data cleaning and pivot tables)
 - SQL (for querying data — optional)
 - Power BI (planned for future dashboarding)
+
+---
 
 ## Folder Structure
 
@@ -35,6 +41,8 @@ This project focuses on cleaning and analyzing sales data to extract actionable 
   - total_sales_by_city.png  
   - total_sales_by_month.png  
 
+---
+
 ## Data Source
 
 The dataset used for this project is from Kaggle:  
@@ -51,12 +59,16 @@ It contains order-level e-commerce data including:
 
 Note: The cleaned dataset (`cleaned_data.csv`) is tracked using Git LFS due to its size.
 
+---
+
 ## Key Insights (to be updated)
 
 - Highest-selling products and categories
 - Monthly sales trends
 - Regional sales performance
 - Average order value
+
+---
 
 ## Status
 
