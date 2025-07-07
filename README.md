@@ -61,12 +61,13 @@ Note: The cleaned dataset (`cleaned_data.csv`) is tracked using Git LFS due to i
 
 ---
 
-## Key Insights (to be updated)
+## Key Insights
 
-- Highest-selling products and categories
-- Monthly sales trends
-- Regional sales performance
-- Average order value
+- **December consistently records the highest sales**, highlighting strong year-end consumer demand.
+- **MacBook Pro Laptop leads in total sales across all cities**, indicating a strong preference for premium electronics.
+- **Top-selling products by quantity are low-cost accessories**, such as AA batteries and charging cables, suggesting frequent repurchases of essential items.
+- **Weekday sales are stable**, with minor peaks mid-week and a noticeable drop on Fridays.
+- **San Francisco, Los Angeles, and New York City generate the highest sales**, making them key regions for marketing and logistics focus.
 
 ---
 
