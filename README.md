@@ -23,30 +23,50 @@ This project focuses on cleaning and analyzing sales data to extract actionable 
 
 ## Folder Structure
 
-/dashboards
-- sales_dashboard.pbix
-- dashboard_screenshot.png
+<details>
+<summary>📁 dashboards</summary>
 
-/data
-- raw_data.csv
-- cleaned_data.csv
-  
-/notebooks
-- data_cleaning.ipynb
-- eda.ipynb
+- sales_dashboard.pbix  
+- dashboard_screenshot.png  
 
-/reports
-- sales_analaysis_report.pdf
+</details>
 
-/visuals
--  monthly sales_per_year.png
-- quantity_ordered_by_day_of_week.png
-- top_5_products_monthly_quantity_ordered.png
-- top_5_products_monthly_sales.png
-- top_products_by_city.png
-- top_products_by_total_sales.png
-- total_sales_by_city.png
-- total_sales_by_month.png
+<details>
+<summary>📁 data</summary>
+
+- raw_data.csv  
+- cleaned_data.csv  
+
+</details>
+
+<details>
+<summary>📁 notebooks</summary>
+
+- data_cleaning.ipynb  
+- eda.ipynb  
+
+</details>
+
+<details>
+<summary>📁 reports</summary>
+
+- sales_analaysis_report.pdf  
+
+</details>
+
+<details>
+<summary>📁 visuals</summary>
+
+- monthly_sales_per_year.png  
+- quantity_ordered_by_day_of_week.png  
+- top_5_products_monthly_quantity_ordered.png  
+- top_5_products_monthly_sales.png  
+- top_products_by_city.png  
+- top_products_by_total_sales.png  
+- total_sales_by_city.png  
+- total_sales_by_month.png  
+
+</details>
 
 ---
 
