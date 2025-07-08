@@ -22,6 +22,11 @@ This project focuses on cleaning and analyzing sales data to extract actionable 
 ---
 
 ## Folder Structure
+
+/dashboards
+- sales_dashboard.pbix
+- dashboard_screenshot.png
+
 /data
 - raw_data.csv
 - cleaned_data.csv
@@ -29,6 +34,9 @@ This project focuses on cleaning and analyzing sales data to extract actionable 
 /notebooks
 - data_cleaning.ipynb
 - eda.ipynb
+
+/reports
+- sales_analaysis_report.pdf
 
 /visuals
 -  monthly sales_per_year.png
@@ -40,11 +48,6 @@ This project focuses on cleaning and analyzing sales data to extract actionable 
 - total_sales_by_city.png
 - total_sales_by_month.png
 
-/dashboards
-- sales_dashboard.pbix
-- dashboard_screenshot.png
-
-  
 ---
 
 ## Data Source
@@ -88,7 +91,15 @@ The interactive Power BI dashboard includes:
 
 ---
 
+## Report
+
+A detailed report summarizing the key findings, visuals, and business insights from this project is available below:
+
+➡ [View PDF Report](reports/sales_analysis_report.pdf)
+
+---
+
 ## Status
 
-✅ Completed: Data cleaning, EDA, and Power BI dashboard are finalized and included in this repository.
+Completed: Data cleaning, EDA, Power BI dashboard, and Reports are finalized and included in this repository.
 
